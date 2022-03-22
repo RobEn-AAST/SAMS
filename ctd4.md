@@ -1,4 +1,4 @@
-# Challenges To Do - Special edition
+# Challenges To Do
 (**ctd** for short)
 
 ## Challenges
@@ -15,6 +15,7 @@ _Hints:_
 - you can hard code the user info inside the code and store an extra guest account with username "guest" and password "SuperHardPassword99"
 
 _example:_
+
 ![example](http://www.blog.pythonlibrary.org/wp-content/uploads/2014/07/wxLogin.png "example app")
 
 ---
