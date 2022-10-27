@@ -6,7 +6,7 @@
 ## Challenges
 ---
 ### 1 - I hate the user
-Make a bag that the user can user to store numbers in and remove numbers from whenever he wants, the user can choose what number to remove from the bag or to add a number to the bag and display the result of contents in the bag after each interaction with the user.
+Make a bag that the user can use to store numbers in and remove numbers from whenever he wants, the user can choose what number to remove from the bag or to add a number to the bag and display the result of contents in the bag after each interaction with the user.
 the bag must contain more than 5 numbers at all times and does not allow user to remove from it if it will have less than 5.
 you can start the list with random numbers in code at the start.
 - make list in code called **_bag_** which contains at least 5 numbers **at all times**
@@ -35,4 +35,4 @@ program output : [6, 22, 999, 76, 43, 30, 420]
 ```
 
 ---
-Roben's AI team 
+Roben's Software & AI team 
