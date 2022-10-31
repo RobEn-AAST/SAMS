@@ -8,7 +8,6 @@
 ### 1 - Is it cold in here
 find out how to convert celsius to fahrenheit and vise versa to make a calculator that calculates it for the user
 depending on what format he wants
-- check for wrong inputs by user (never trust the user)
 - make it accept to modes:
     - mode 1 = celsius to fahrenheit
     - mode 2 = fahrenheit to celsius

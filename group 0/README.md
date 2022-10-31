@@ -13,6 +13,7 @@ Weekly sessions
     - numbers 
     - strings
     - glimpse of printing lists
+- user input
 - [ ] CTDS:  0.1 
 ###### Session 2
 - if statements
@@ -29,7 +30,6 @@ Weekly sessions
 ###### Session 3
 - lists
 - helper functions (range, sort, )
-- user input
 - try except
 
 ###### Session 4
