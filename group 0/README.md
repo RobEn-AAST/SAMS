@@ -14,21 +14,21 @@ Weekly sessions
     - strings
     - glimpse of printing lists
 - user input
-- [ ] CTDS:  0.1 
+- [ ] CTDS:  0.1
 ###### Session 2
 - if statements
     - if equation equals a number
     - if string equals string
     - if then do that, else do this, elif
-    - 
 - while loops
     - examples and exercises
 - for loops
     - examples and exercises
-- comments
+- lists
+- [ ] CTDS:  0.2
 
 ###### Session 3
-- lists
+- comments
 - helper functions (range, sort, )
 - try except
 
