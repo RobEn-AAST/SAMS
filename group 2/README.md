@@ -8,6 +8,8 @@ Weekly sessions
 - Python ma3mol be eh?  made up of C/C++
 
 ###### Session 2
+- importing another custom made file
+- __name __ == __main __ block
 
 ###### Session 3
 
