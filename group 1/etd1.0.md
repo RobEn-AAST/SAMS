@@ -4,7 +4,7 @@
 ## Exercises
 ---
 
-### 1 - 
+### 1 - avg
 Write a function that takes in 4 numbers from the user and prints out the maximum sum and minimum sum you can get by combining 3 of them, the program should ask the user for input while saying the number to be expected:
 
 _example:_
