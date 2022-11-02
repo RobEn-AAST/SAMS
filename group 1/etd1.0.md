@@ -14,10 +14,17 @@ input 2: 66
 ...
 ```
 
-### 2 - How big can you get 
- 
+### 2 - what's your name
+create a function that can capitalize the full names of any user input however many they are.
+- if the input contains digits it should remain the same
+  
 _example:_
 ```
+user input: mohamed ali
+output: Mohamed Aly
+----------------------------------
+user input: 123mohamed ali gaber
+output: 123mohamed Aly Gaber
 
 ```
 
