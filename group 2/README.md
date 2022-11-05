@@ -4,7 +4,7 @@
 Weekly sessions
 ###### Session 1
 - why write reusable code
-- standards libraries (json, pickle, time)
+- standards libraries (json, pickle, time, random)
 - intro the pip and PYPI
 - Python ma3mol be eh?  made up of C/C++
 - install pygame and check out documentation

@@ -10,7 +10,7 @@ Weekly sessions
 ###### Session 2
 - install vscode and general env tutorial
 - strings strings strings
-
+- make password generator app
 ###### Session 3
 
 ###### Session 4
