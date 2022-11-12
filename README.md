@@ -15,3 +15,5 @@ python savvy people with loads of syntax and problem solving experience but lack
 ###### Group 3
 image processing and devops experienced members
 
+---
+Roben's Software & AI team 

@@ -6,6 +6,7 @@ Weekly sessions
 ###### Session 1
 - what is programming
 - what and why is python
+  - any program can be a 1 or a 10
 - install Thonny
 - intro to writing a program and printing (create a folder for programs)
 - basic equating and using vars, printing
@@ -39,3 +40,6 @@ Weekly sessions
 ###### Session 4
 - defining a function
 - writing a complete program
+
+---
+Roben's Software & AI team 
