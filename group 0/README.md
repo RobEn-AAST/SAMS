@@ -16,15 +16,19 @@ Weekly sessions
 - user input
 - [ ] CTDS:  0.1
 ###### Session 2
+- this is just an intro and you should search on your own
 - if statements
+    - booleans
     - if equation equals a number
     - if string equals string
     - if then do that, else do this, elif
+- Ahameyet el searching we hindi youtubers
 - while loops
     - examples and exercises
 - for loops
     - examples and exercises
 - lists
+- list functions (append, [], search, sort)
 - [ ] CTDS:  0.2
 
 ###### Session 3
