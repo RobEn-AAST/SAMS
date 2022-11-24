@@ -41,7 +41,7 @@ Weekly sessions
 
 ###### Session 4
 - defining a function
-- writing a complete program
-
+- argument passing and overloading for functions
+- writing a complete program structure
 ---
 Roben's Software & AI team 
