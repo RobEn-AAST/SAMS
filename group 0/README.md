@@ -33,9 +33,11 @@ Weekly sessions
 - [ ] CTDS:  0.2
 
 ###### Session 3
-- comments
+- strings
+- dicts, tuples and more lists
 - helper functions (range, sort, )
 - try except
+- comments
 
 ###### Session 4
 - defining a function
