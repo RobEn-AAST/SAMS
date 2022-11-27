@@ -35,7 +35,7 @@ Weekly sessions
 ###### Session 3
 - strings
 - dicts, tuples and more lists
-- helper functions (range, sort, )
+- helper functions (range, sort, enumerate)
 - try except
 - comments
 
