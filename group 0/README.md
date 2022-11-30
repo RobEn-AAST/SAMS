@@ -15,7 +15,7 @@ Weekly sessions
     - strings
     - glimpse of printing lists
 - user input
-- [ ] CTDS:  0.1
+- [X] CTDS:  0.1
 ###### Session 2
 - this is just an intro and you should search on your own
 - if statements
@@ -30,18 +30,20 @@ Weekly sessions
     - examples and exercises
 - lists
 - list functions (append, [], search, sort)
-- [ ] CTDS:  0.2
+- [X] CTDS:  0.2
 
 ###### Session 3
 - strings
 - dicts, tuples and more lists
 - helper functions (range, sort, enumerate)
+- defining a function
 - try except
 - comments
+- [ ] CTD 0.3
 
 ###### Session 4
-- defining a function
-- argument passing and overloading for functions
+- what is python (interpreter, terminal program)
+- importing our code from another file
 - writing a complete program structure
 ---
 Roben's Software & AI team 
