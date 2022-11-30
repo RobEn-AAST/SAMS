@@ -1,7 +1,6 @@
 # Session 3
 
 ### Starting conversation
-- ana msh bakeep attendance we score zy el hr, temshy bel 7ob azraf
 - fi nas 3amalo el ctd we nas la, ely hay2asar fel shoghl ba3d kda  hayban 3aleih unless howa gamed yeb2a tamam
 - ely katabo comments 3ash nas gamda walahy
 
