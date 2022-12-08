@@ -1,9 +1,9 @@
 # Group 0
 Freshmen
 
-#### Content
+### Content
 Weekly sessions
-###### Session 1
+##### Session 1
 - what is programming
 - what and why is python
   - any program can be a 1 or a 10
@@ -16,7 +16,7 @@ Weekly sessions
     - glimpse of printing lists
 - user input
 - [X] CTDS:  0.1
-###### Session 2
+##### Session 2
 - this is just an intro and you should search on your own
 - if statements
     - booleans
@@ -32,7 +32,7 @@ Weekly sessions
 - list functions (append, [], search, sort)
 - [X] CTDS:  0.2
 
-###### Session 3
+##### Session 3
 - strings
 - dicts, tuples and more lists
 - helper functions (range, sort, enumerate)
@@ -41,20 +41,20 @@ Weekly sessions
 - comments
 - [X] CTD 0.3
 
-###### Session 4
+##### Session 4
 - what is python (interpreter, terminal program)
 - vscode and why use python in terminal
 - importing our code from another file
 - writing a complete program structure
 - [ ] CTD 0.4
 
-###### Session 5
+##### Session 5
 - what can python Really do (other libraries examples)
 - terminal basics
 - what is devops
 - [ ] CTD 0.5
 
-###### Session 6
+##### Session 6
 - what it takes to be a software & AI team member (github, stackoverflow, docs)
 - brief on bags game and it's importance
 - image processing intro
