@@ -39,11 +39,25 @@ Weekly sessions
 - defining a function
 - try except
 - comments
-- [ ] CTD 0.3
+- [X] CTD 0.3
 
 ###### Session 4
 - what is python (interpreter, terminal program)
+- vscode and why use python in terminal
 - importing our code from another file
 - writing a complete program structure
+- [ ] CTD 0.4
+
+###### Session 5
+- what can python Really do (other libraries examples)
+- terminal basics
+- what is devops
+- [ ] CTD 0.5
+
+###### Session 6
+- what it takes to be a software & AI team member (github, stackoverflow, docs)
+- brief on bags game and it's importance
+- image processing intro
+- [ ] graduation CTD
 ---
 Roben's Software & AI team 
